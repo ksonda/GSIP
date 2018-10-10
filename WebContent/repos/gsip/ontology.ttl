@@ -7,7 +7,7 @@
 @prefix fn: <http://www.w3.org/2005/xpath-functions#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix dct: <http://purl.org/dc/terms/>.
-@prefix hy: <http://geosciences.ca/def/hydraulic#>.
+@prefix hy: <https://www.opengis.net/def/hy_features/ontology/hyf/>.
 @prefix gw: <http://geosciences.ca/def/groundwater#>.
 @prefix dcat: <http://www.w3.org/ns/dcat#>.
 @prefix ex: <http://gin.gw-info.net/example#>.
@@ -23,7 +23,9 @@ hy:HY_HydrometricFeature rdf:type owl:Class;
 hy:HY_HydrometricStation rdf:type owl:Class;
 	rdfs:subClassOf hy:HY_HydrometricFeature;
 	rdfs:label "Station hydrometrique"@fr,"Hydrometric Station"@en.
-
+	
+hy:HY_HydroNexus rdf:type owl:Class;
+	rdfs:label "Hydrologic Nexus"@en,"Noeud Hydrologique"@fr.
 
 gw:GW_Well rdf:type owl:Class;
 	rdfs:label "Water Well"@en,"Puits d'eau"@fr.
@@ -57,7 +59,7 @@ hy:inside rdf:type owl:ObjectProperty,owl:TransitiveProperty.
 hy:lowerCatchment rdf:type owl:ObjectProperty;
   owl:inverseOf hy:upperCatchment.
 
-hy:upperCatchment rdf:type owl:ObjectProperty
+hy:upperCatchment rdf:type owl:ObjectProperty.
 
 hy:contains rdf:type owl:ObjectProperty,owl:TransitiveProperty;
         owl:inverseOf hy:inside.

@@ -22,13 +22,13 @@
 	<p:parameters>
 
 <!--  Persistent URI (those in the catalog or in static resources) which will be used in production  -->
-		<p:parameter name="persistentUri">https://geoconnex.ca</p:parameter>
+		<p:parameter name="persistentUri">https://localhost</p:parameter>
 <!--  this variable should be true is the persistent URI needs to be converted to base URI (if necessary) -->
 		<p:parameter name="convertToBaseUri">true</p:parameter>
 		
 <!--  depending of the environment this works and how Apache modrewrite is configured  -->
 
-		<p:parameter name="baseUri">https://geoconnex.ca</p:parameter> 	
+		<p:parameter name="baseUri">https://localhost</p:parameter> 	
 <!--	
 		<p:parameter name="gsip">https://geoconnex.ca/gsip</p:parameter>
 		<p:parameter name="proxdevuri">https://geoconnex.ca</p:parameter> 
@@ -45,7 +45,7 @@
 -->
 		
 
-		<p:parameter name="baseUri">http://localhost:8080/gsip</p:parameter> 
+    <!-- <p:parameter name="baseUri">http://localhost:8080/gsip</p:parameter>  -->
 
  		<p:parameter name="gsip">http://localhost:8080/gsip</p:parameter> 
 
@@ -57,7 +57,7 @@
 
 		<p:parameter name="infoTemplate">infohtml.ftl</p:parameter> <!--  default  -->
 		<!--  special template for geologic units (pattern starts after /id/) -->
-		<p:parameter name="infoTemplate" pattern="http.*/geologicUnits/.*">geounits.ftl</p:parameter>
+    <!-- <p:parameter name="infoTemplate" pattern="http.*/geologicUnits/.*">geounits.ftl</p:parameter> -->
 		
 		<p:parameter name="supportedLanguages">en,fr</p:parameter>
 		<p:parameter name="defaultLanguage">en</p:parameter>
