@@ -101,5 +101,5 @@ gsp:sfWithin rdf:type owl:ObjectProperty;
 
 gsp:sfContains rdf:type owl:ObjectProperty.	
 
-
+gsp:sfIntersects rdf:type owl:ObjectProperty, owl:SymmetricProperty.
 

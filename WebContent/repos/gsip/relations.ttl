@@ -470,11 +470,13 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/realizedCatchment> <http://localhost/id/hu/041504081603> .
 
 <http://localhost/id/hu/04150401>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Mettawee River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150401>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150401>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150401%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150401> .
 
 <http://localhost/id/hu/041504010101>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Halfway Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010101>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010101>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010101%27> ;
@@ -482,6 +484,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010103> .
 
 <http://localhost/id/hu/041504010102>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Hadlock Pond" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010102>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010102>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010102%27> ;
@@ -489,6 +492,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010103> .
 
 <http://localhost/id/hu/041504010103>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Halfway Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010103>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010103>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010103%27> ;
@@ -496,6 +500,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010104> .
 
 <http://localhost/id/hu/041504010104>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Wood Creek-Lake Champlain Canal" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010104>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010104>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010104%27> ;
@@ -503,6 +508,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010105> .
 
 <http://localhost/id/hu/041504010105>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lake Champlain Canal" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010105>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010105>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010105%27> ;
@@ -510,6 +516,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010307> .
 
 <http://localhost/id/hu/041504010201>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Mettawee River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010201>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010201>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010201%27> ;
@@ -517,6 +524,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010203> .
 
 <http://localhost/id/hu/041504010202>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Flower Brook" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010202>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010202>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010202%27> ;
@@ -524,6 +532,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010203> .
 
 <http://localhost/id/hu/041504010203>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Wells Brook-Mettawee River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010203>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010203>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010203%27> ;
@@ -538,6 +547,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010205> .
 
 <http://localhost/id/hu/041504010205>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Mettawee River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010205>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010205>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010205%27> ;
@@ -545,6 +555,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010307> .
 
 <http://localhost/id/hu/041504010301>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Poultney River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010301>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010301>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010301%27> ;
@@ -559,6 +570,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010305> .
 
 <http://localhost/id/hu/041504010303>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Castleton River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010303>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010303>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010303%27> ;
@@ -566,6 +578,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010304> .
 
 <http://localhost/id/hu/041504010304>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Castleton River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010304>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010304>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010304%27> ;
@@ -573,6 +586,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010305> .
 
 <http://localhost/id/hu/041504010305>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Mud Brook-Poultney River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010305>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010305>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010305%27> ;
@@ -580,6 +594,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010307> .
 
 <http://localhost/id/hu/041504010306>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Hubbardton River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010306>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010306>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010306%27> ;
@@ -587,6 +602,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504010307> .
 
 <http://localhost/id/hu/041504010307>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Poultney River-Head of Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504010307>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504010307>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504010307%27> ;
@@ -594,11 +610,13 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080104> .
 
 <http://localhost/id/hu/04150402>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150402>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150402>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150402%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150402> .
 
 <http://localhost/id/hu/041504020101>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020101>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020101>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020101%27> ;
@@ -606,6 +624,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020103> .
 
 <http://localhost/id/hu/041504020102>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Big Branch" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020102>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020102>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020102%27> ;
@@ -613,6 +632,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020103> .
 
 <http://localhost/id/hu/041504020103>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Homer Stone Brook-Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020103>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020103>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020103%27> ;
@@ -641,6 +661,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020109> .
 
 <http://localhost/id/hu/041504020107>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "East Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020107>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020107>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020107%27> ;
@@ -648,6 +669,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020109> .
 
 <http://localhost/id/hu/041504020108>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Clarendon River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020108>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020108>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020108%27> ;
@@ -655,6 +677,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020109> .
 
 <http://localhost/id/hu/041504020109>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Moon Brook-Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020109>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020109>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020109%27> ;
@@ -662,6 +685,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020302> .
 
 <http://localhost/id/hu/041504020201>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters New Haven River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020201>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020201>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020201%27> ;
@@ -669,6 +693,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020203> .
 
 <http://localhost/id/hu/041504020202>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Baldwin Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020202>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020202>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020202%27> ;
@@ -676,6 +701,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020203> .
 
 <http://localhost/id/hu/041504020203>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "New Haven River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020203>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020203>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020203%27> ;
@@ -683,6 +709,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020307> .
 
 <http://localhost/id/hu/041504020301>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Furnace Brook" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020301>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020301>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020301%27> ;
@@ -690,6 +717,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020302> .
 
 <http://localhost/id/hu/041504020302>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Bresee Mill Brook-Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020302>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020302>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020302%27> ;
@@ -697,6 +725,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020304> .
 
 <http://localhost/id/hu/041504020303>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Neshobe River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020303>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020303>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020303%27> ;
@@ -704,6 +733,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020304> .
 
 <http://localhost/id/hu/041504020304>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Willow Brook-Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020304>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020304>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020304%27> ;
@@ -711,6 +741,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020307> .
 
 <http://localhost/id/hu/041504020305>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Leicester River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020305>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020305>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020305%27> ;
@@ -718,6 +749,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020307> .
 
 <http://localhost/id/hu/041504020306>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Middlebury River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020306>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020306>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020306%27> ;
@@ -725,6 +757,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020307> .
 
 <http://localhost/id/hu/041504020307>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Pleasant Brook-Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020307>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020307>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020307%27> ;
@@ -732,6 +765,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020502> .
 
 <http://localhost/id/hu/041504020401>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Upper Lemon Fair River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020401>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020401>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020401%27> ;
@@ -739,6 +773,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020402> .
 
 <http://localhost/id/hu/041504020402>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lower Lemon Fair River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020402>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020402>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020402%27> ;
@@ -746,6 +781,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020502> .
 
 <http://localhost/id/hu/041504020501>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Dead Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020501>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020501>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020501%27> ;
@@ -753,6 +789,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504020502> .
 
 <http://localhost/id/hu/041504020502>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504020502>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504020502>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504020502%27> ;
@@ -760,6 +797,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080602> .
 
 <http://localhost/id/hu/04150403>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Winooski River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150403>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150403>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150403%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150403> .
@@ -919,6 +957,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504030704> .
 
 <http://localhost/id/hu/041504030703>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Muddy Brook" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504030703>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504030703>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504030703%27> ;
@@ -926,6 +965,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504030704> .
 
 <http://localhost/id/hu/041504030704>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Winooski River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504030704>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504030704>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504030704%27> ;
@@ -933,6 +973,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/04150404>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Ausable River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150404>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150404>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150404%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150404> .
@@ -1022,6 +1063,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504040302> .
 
 <http://localhost/id/hu/041504040302>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Ausable River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504040302>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504040302>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504040302%27> ;
@@ -1029,6 +1071,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/04150405>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lamoille River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150405>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150405>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150405%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150405> .
@@ -1090,6 +1133,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504050202> .
 
 <http://localhost/id/hu/041504050202>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Browns River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504050202>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504050202>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504050202%27> ;
@@ -1132,6 +1176,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504050306> .
 
 <http://localhost/id/hu/041504050306>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lamoille River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504050306>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504050306>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504050306%27> ;
@@ -1139,6 +1184,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080902> .
 
 <http://localhost/id/hu/04150406>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Saranac River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150406>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150406>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150406%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150406> .
@@ -1242,6 +1288,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504060502> .
 
 <http://localhost/id/hu/041504060502>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Behan Brook-Saranac River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504060502>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504060502>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504060502%27> ;
@@ -1249,6 +1296,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504060503> .
 
 <http://localhost/id/hu/041504060503>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Kelly Brook-Saranac River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504060503>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504060503>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504060503%27> ;
@@ -1256,6 +1304,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504060504> .
 
 <http://localhost/id/hu/041504060504>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Saranac River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504060504>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504060504>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504060504%27> ;
@@ -1263,6 +1312,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/04150407>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Missiquoi River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150407>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150407>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150407%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150407> .
@@ -1366,6 +1416,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504070503> .
 
 <http://localhost/id/hu/041504070502>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Dead Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504070502>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504070502>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504070502%27> ;
@@ -1380,6 +1431,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504070601> .
 
 <http://localhost/id/hu/041504070601>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "McGowan Brook-Missisquoi River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504070601>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504070601>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504070601%27> ;
@@ -1387,6 +1439,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504070603> .
 
 <http://localhost/id/hu/041504070602>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Hungerford Brook" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504070602>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504070602>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504070602%27> ;
@@ -1394,6 +1447,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504070603> .
 
 <http://localhost/id/hu/041504070603>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Outlet Missisquoi River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504070603>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504070603>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504070603%27> ;
@@ -1401,6 +1455,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081102> .
 
 <http://localhost/id/hu/04150408>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_CatchmentAggregate>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/04150408>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/04150408>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc08&outputFormat=application%2Fjson&cql_filter=huc8%20IN%20(%2704150408%27)>, <https://waterdata.usgs.gov/hydrological-unit/04150408> .
@@ -1420,6 +1475,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080104> .
 
 <http://localhost/id/hu/041504080103>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Mill Brook" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080103>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080103>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080103%27> ;
@@ -1427,6 +1483,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080104> .
 
 <http://localhost/id/hu/041504080104>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Charter Brook-Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080104>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080104>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080104%27> ;
@@ -1434,6 +1491,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080304> .
 
 <http://localhost/id/hu/041504080201>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwater Lake George" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080201>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080201>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080201%27> ;
@@ -1462,6 +1520,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080205> .
 
 <http://localhost/id/hu/041504080205>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Outlet Lake George" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080205>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080205>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080205%27> ;
@@ -1469,6 +1528,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080206> .
 
 <http://localhost/id/hu/041504080206>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "La Chute" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080206>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080206>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080206%27> ;
@@ -1476,6 +1536,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080304> .
 
 <http://localhost/id/hu/041504080301>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "East Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080301>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080301>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080301%27> ;
@@ -1483,6 +1544,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080304> .
 
 <http://localhost/id/hu/041504080302>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Putnam Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080302>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080302>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080302%27> ;
@@ -1490,6 +1552,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080304> .
 
 <http://localhost/id/hu/041504080303>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Bullwagga Bay" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080303>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080303>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080303%27> ;
@@ -1497,6 +1560,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080304> .
 
 <http://localhost/id/hu/041504080304>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "McKenzie Brook-Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080304>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080304>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080304%27> ;
@@ -1504,6 +1568,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080602> .
 
 <http://localhost/id/hu/041504080401>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Little Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080401>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080401>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080401%27> ;
@@ -1511,6 +1576,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080402> .
 
 <http://localhost/id/hu/041504080402>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Little Otter Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080402>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080402>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080402%27> ;
@@ -1518,6 +1584,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080602> .
 
 <http://localhost/id/hu/041504080501>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Lewis Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080501>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080501>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080501%27> ;
@@ -1525,6 +1592,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080502> .
 
 <http://localhost/id/hu/041504080502>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lewis Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080502>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080502>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080502%27> ;
@@ -1539,6 +1607,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080602> .
 
 <http://localhost/id/hu/041504080602>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Hoisington Brook-Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080602>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080602>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080602%27> ;
@@ -1588,6 +1657,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080707> .
 
 <http://localhost/id/hu/041504080707>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lower Bouquet River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080707>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080707>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080707%27> ;
@@ -1595,6 +1665,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504080801>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "La Platte River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080801>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080801>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080801%27> ;
@@ -1602,6 +1673,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080802> .
 
 <http://localhost/id/hu/041504080802>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Munroe Brook-Shelburne Bay" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080802>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080802>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080802%27> ;
@@ -1609,6 +1681,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504080901>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Malletts Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080901>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080901>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080901%27> ;
@@ -1616,6 +1689,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504080902> .
 
 <http://localhost/id/hu/041504080902>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Malletts Bay" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504080902>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504080902>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504080902%27> ;
@@ -1644,6 +1718,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081004> .
 
 <http://localhost/id/hu/041504081004>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Ruiss Coslett-Riviere Aux Brochets" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081004>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081004>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081004%27> ;
@@ -1672,6 +1747,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081102> .
 
 <http://localhost/id/hu/041504081101>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Rock River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081101>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081101>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081101%27> ;
@@ -1679,6 +1755,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081102> .
 
 <http://localhost/id/hu/041504081102>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Carman Brook-Missisquoi Bay" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081102>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081102>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081102%27> ;
@@ -1686,6 +1763,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081204> .
 
 <http://localhost/id/hu/041504081201>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Jewett Brook" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081201>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081201>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081201%27> ;
@@ -1693,6 +1771,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081204> .
 
 <http://localhost/id/hu/041504081202>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Mill River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081202>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081202>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081202%27> ;
@@ -1700,6 +1779,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081204> .
 
 <http://localhost/id/hu/041504081203>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Mud Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081203>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081203>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081203%27> ;
@@ -1707,6 +1787,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081204> .
 
 <http://localhost/id/hu/041504081204>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "St Albans Bay-Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081204>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081204>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081204%27> ;
@@ -1721,6 +1802,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081302> .
 
 <http://localhost/id/hu/041504081302>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Little Ausable River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081302>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081302>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081302%27> ;
@@ -1728,6 +1810,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504081401>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Salmon River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081401>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081401>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081401%27> ;
@@ -1735,6 +1818,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081402> .
 
 <http://localhost/id/hu/041504081402>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Salmon River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081402>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081402>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081402%27> ;
@@ -1742,6 +1826,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504081501>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters Great Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081501>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081501>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081501%27> ;
@@ -1749,6 +1834,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081504> .
 
 <http://localhost/id/hu/041504081502>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Headwaters North Branch Great Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081502>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081502>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081502%27> ;
@@ -1756,6 +1842,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081503> .
 
 <http://localhost/id/hu/041504081503>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "North Branch Great Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081503>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081503>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081503%27> ;
@@ -1763,6 +1850,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081505> .
 
 <http://localhost/id/hu/041504081504>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "King Brook-Great Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081504>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081504>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081504%27> ;
@@ -1770,6 +1858,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081505> .
 
 <http://localhost/id/hu/041504081505>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Bullis Brook-Great Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081505>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081505>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081505%27> ;
@@ -1777,6 +1866,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081507> .
 
 <http://localhost/id/hu/041504081506>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Corbeau Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081506>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081506>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081506%27> ;
@@ -1784,6 +1874,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081507> .
 
 <http://localhost/id/hu/041504081507>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Outlet Great Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081507>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081507>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081507%27> ;
@@ -1791,6 +1882,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504081601>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Willsboro Bay" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081601>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081601>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081601%27> ;
@@ -1798,6 +1890,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504081602>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Dead Creek" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081602>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081602>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081602%27> ;
@@ -1805,6 +1898,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504081603>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Little Chazy River" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081603>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081603>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081603%27> ;
@@ -1812,6 +1906,7 @@
     <https://www.opengis.net/def/hy_features/ontology/hyf/lowerCatchment> <http://localhost/id/hu/041504081604> .
 
 <http://localhost/id/hu/041504081604>
+    <http://www.opengeospatial.org/standards/geosparql/sfIntersects> <http://localhost/id/nat_aq/N300NYSDSN>, <http://localhost/id/nat_aq/N400NYNECB> ;
     a <https://www.opengis.net/def/hy_features/ontology/hyf/HY_Catchment>, <https://www.opengis.net/def/hy_features/ontology/hyf/HY_DendriticCatchment> ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Lake Champlain" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/hu/041504081604>, <https://cida.usgs.gov/nwc/#!waterbudget/huc/041504081604>, <https://cida.usgs.gov/nwc/geoserver/WBD/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=WBD:huc12&outputFormat=application%2Fjson&cql_filter=huc12=%27041504081604%27> ;
@@ -2503,6 +2598,16 @@
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://www.sciencebase.gov/catalogMaps/mapping/ows/5762b664e4b07657d19a71ea?service=wfs&request=getfeature&version=1.0.0&typename=sb:fpp&outputFormat=application%2fjson&srsName=EPSG:4326&cql_filter=HUC_12%20IN%20(%27041504080707%27,%20%27041504081601%27,%20%27041504080802%27,%20%27041504040302%27,%20%27041504081302%27,%20%27041504030704%27,%20%27041504081402%27,%20%27041504080902%27,%20%27041504060504%27,%20%27041504081602%27,%20%27041504081603%27,%20%27041504081204%27,%20%27041504080602%27,%20%27041504081507%27)> ;
     <https://www.opengis.net/def/hy_features/ontology/hyf/contributingCatchment> <http://localhost/id/hu/041504030704>, <http://localhost/id/hu/041504040302>, <http://localhost/id/hu/041504060504>, <http://localhost/id/hu/041504080602>, <http://localhost/id/hu/041504080707>, <http://localhost/id/hu/041504080802>, <http://localhost/id/hu/041504080902>, <http://localhost/id/hu/041504081204>, <http://localhost/id/hu/041504081302>, <http://localhost/id/hu/041504081402>, <http://localhost/id/hu/041504081507>, <http://localhost/id/hu/041504081601>, <http://localhost/id/hu/041504081602>, <http://localhost/id/hu/041504081603> ;
     <https://www.opengis.net/def/hy_features/ontology/hyf/receivingCatchment> <http://localhost/id/hu/041504081604> .
+
+<http://localhost/id/nat_aq/N300NYSDSN>
+    a <http://geosciences.ca/def/groundwater#GW_AquiferSystem> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "New York sandstone aquifers" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/nat_aq/N300NYSDSN>, <http://water.usgs.gov/ogw/aquiferbasics/sandston.html>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:aquifrp025&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=NAT_AQFR_CD%20IN%20(%27N300NYSDSN%27)> .
+
+<http://localhost/id/nat_aq/N400NYNECB>
+    a <http://geosciences.ca/def/groundwater#GW_AquiferSystem> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "New York and New England carbonate-rock aquifers" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/nat_aq/N400NYNECB>, <http://water.usgs.gov/ogw/aquiferbasics/nycarbon.html>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:aquifrp025&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=NAT_AQFR_CD%20IN%20(%27N400NYNECB%27)> .
 
 <http://localhost/info/gage/04271500>
     <http://purl.org/dc/terms/format> "text/html" ;
@@ -3595,6 +3700,30 @@
 <http://localhost/info/hu/041504081604>
     <http://purl.org/dc/terms/format> "text/html" ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://localhost/info/nat_aq/N300NYSDSN>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://localhost/info/nat_aq/N400NYNECB>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://water.usgs.gov/ogw/aquiferbasics/nycarbon.html>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Aquifer Summary Page" .
+
+<http://water.usgs.gov/ogw/aquiferbasics/sandston.html>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Aquifer Summary Page" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:aquifrp025&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=NAT_AQFR_CD%20IN%20(%27N300NYSDSN%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:aquifrp025&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=NAT_AQFR_CD%20IN%20(%27N400NYNECB%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
 
 <https://cida.usgs.gov/nldi/nwissite/USGS-04271500>
     <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
