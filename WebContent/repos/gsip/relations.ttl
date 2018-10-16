@@ -2609,6 +2609,36 @@
     <http://www.w3.org/2000/01/rdf-schema#label> "New York and New England carbonate-rock aquifers" ;
     <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/nat_aq/N400NYNECB>, <http://water.usgs.gov/ogw/aquiferbasics/nycarbon.html>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:aquifrp025&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=NAT_AQFR_CD%20IN%20(%27N400NYNECB%27)> .
 
+<http://localhost/id/well/USGS-434217073010601>
+    <http://www.opengeospatial.org/standards/geosparql/sfWithin> <http://localhost/id/hu/04150402>, <http://localhost/id/hu/041504020301>, <http://localhost/id/nat_aq/N100GLCIAL> ;
+    a <http://geosciences.ca/def/groundwater#GW_Well> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "VT-PFW    8" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/well/USGS:434217073010601>, <http://waterdata.usgs.gov/nwis/inventory?search_site_no=434217073010601&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:434217073010601%27)> .
+
+<http://localhost/id/well/USGS-441215072483101>
+    <http://www.opengeospatial.org/standards/geosparql/sfWithin> <http://localhost/id/hu/04150403>, <http://localhost/id/hu/041504030504>, <http://localhost/id/nat_aq/N100GLCIAL> ;
+    a <http://geosciences.ca/def/groundwater#GW_Well> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "VT-WAW    2" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/well/USGS:441215072483101>, <http://waterdata.usgs.gov/nwis/inventory?search_site_no=441215072483101&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:441215072483101%27)> .
+
+<http://localhost/id/well/USGS-443405072323501>
+    <http://www.opengeospatial.org/standards/geosparql/sfWithin> <http://localhost/id/hu/04150405>, <http://localhost/id/hu/041504050106>, <http://localhost/id/nat_aq/N100GLCIAL> ;
+    a <http://geosciences.ca/def/groundwater#GW_Well> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "VT-MPW    1" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/well/USGS:443405072323501>, <http://waterdata.usgs.gov/nwis/inventory?search_site_no=443405072323501&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:443405072323501%27)> .
+
+<http://localhost/id/well/USGS-443646073124901>
+    <http://www.opengeospatial.org/standards/geosparql/sfWithin> <http://localhost/id/hu/04150405>, <http://localhost/id/hu/041504050306>, <http://localhost/id/nat_aq/N100GLCIAL> ;
+    a <http://geosciences.ca/def/groundwater#GW_Well> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "VT-MJW    3" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/well/USGS:443646073124901>, <http://waterdata.usgs.gov/nwis/inventory?search_site_no=443646073124901&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:443646073124901%27)> .
+
+<http://localhost/id/well/USGS-445052073350201>
+    <http://www.opengeospatial.org/standards/geosparql/sfWithin> <http://localhost/id/hu/04150408>, <http://localhost/id/hu/041504081603>, <http://localhost/id/nat_aq/N300NYSDSN> ;
+    a <http://geosciences.ca/def/groundwater#GW_Well> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Local number, Cl-145, SUNY Plattsburgh NY" ;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://localhost/info/well/USGS:445052073350201>, <http://waterdata.usgs.gov/nwis/inventory?search_site_no=445052073350201&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>, <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:445052073350201%27)> .
+
 <http://localhost/info/gage/04271500>
     <http://purl.org/dc/terms/format> "text/html" ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
@@ -3709,6 +3739,26 @@
     <http://purl.org/dc/terms/format> "text/html" ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
 
+<http://localhost/info/well/USGS:434217073010601>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://localhost/info/well/USGS:441215072483101>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://localhost/info/well/USGS:443405072323501>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://localhost/info/well/USGS:443646073124901>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
+<http://localhost/info/well/USGS:445052073350201>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Information Index" .
+
 <http://water.usgs.gov/ogw/aquiferbasics/nycarbon.html>
     <http://purl.org/dc/terms/format> "text/html" ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Aquifer Summary Page" .
@@ -3716,6 +3766,46 @@
 <http://water.usgs.gov/ogw/aquiferbasics/sandston.html>
     <http://purl.org/dc/terms/format> "text/html" ;
     <http://www.w3.org/2000/01/rdf-schema#label> "Aquifer Summary Page" .
+
+<http://waterdata.usgs.gov/nwis/inventory?search_site_no=434217073010601&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Well Summary Page" .
+
+<http://waterdata.usgs.gov/nwis/inventory?search_site_no=441215072483101&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Well Summary Page" .
+
+<http://waterdata.usgs.gov/nwis/inventory?search_site_no=443405072323501&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Well Summary Page" .
+
+<http://waterdata.usgs.gov/nwis/inventory?search_site_no=443646073124901&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Well Summary Page" .
+
+<http://waterdata.usgs.gov/nwis/inventory?search_site_no=445052073350201&search_site_no_match_type=exact&sort_key=site_no&group_key=NONE&sitefile_output_format=html_table&column_name=agency_cd&column_name=site_no&column_name=station_nm&format=station_manuscript&list_of_search_criteria=search_site_no>
+    <http://purl.org/dc/terms/format> "text/html" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Well Summary Page" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:434217073010601%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:441215072483101%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:443405072323501%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:443646073124901%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
+
+<https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:VW_GWDP_GEOSERVER&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=MY_SITEID%20IN%20(%27USGS:445052073350201%27)>
+    <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "GeoJSON" .
 
 <https://cida.usgs.gov/ngwmn/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ngwmn:aquifrp025&srsName=EPSG:4326&outputFormat=application%2Fjson&cql_filter=NAT_AQFR_CD%20IN%20(%27N300NYSDSN%27)>
     <http://purl.org/dc/terms/format> "application/vnd.geo+json" ;
