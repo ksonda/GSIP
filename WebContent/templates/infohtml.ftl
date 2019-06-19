@@ -149,8 +149,8 @@
 	</div>
 	<footer class="mastfoot mt-auto">
 		<div class="inner">
-			<img class="img-fluid" alt="Government of Canada logo"
-				src="${host}/app/img/GOCcolouren.png"
+			<img class="img-fluid" alt="USGS logo"
+				src="${host}/app/img/usgs_logo.png"
 				style="max-height: 35px;" />
 		</div>
 	</footer>

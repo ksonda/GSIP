@@ -7,12 +7,15 @@
 @prefix fn: <http://www.w3.org/2005/xpath-functions#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix dct: <http://purl.org/dc/terms/>.
-@prefix hy: <http://geosciences.ca/def/hydraulic#>.
+@prefix hy: <https://www.opengis.net/def/hy_features/ontology/hyf/>.
 @prefix gw: <http://geosciences.ca/def/groundwater#>.
 @prefix dcat: <http://www.w3.org/ns/dcat#>.
 @prefix ex: <http://gin.gw-info.net/example#>.
+@prefix gsp: <http://www.opengeospatial.org/standards/geosparql/>
 
 # Ontology used in GSIP
+
+
 
 hy:HY_Catchment rdf:type owl:Class;
 	rdfs:label "Catchment"@en,"Bassin de drainage"@fr.
@@ -23,7 +26,9 @@ hy:HY_HydrometricFeature rdf:type owl:Class;
 hy:HY_HydrometricStation rdf:type owl:Class;
 	rdfs:subClassOf hy:HY_HydrometricFeature;
 	rdfs:label "Station hydrometrique"@fr,"Hydrometric Station"@en.
-
+	
+hy:HY_HydroNexus rdf:type owl:Class;
+	rdfs:label "Hydrologic Nexus"@en,"Noeud Hydrologique"@fr.
 
 gw:GW_Well rdf:type owl:Class;
 	rdfs:label "Water Well"@en,"Puits d'eau"@fr.
@@ -46,65 +51,57 @@ hy:HY_Waterbody rdf:type owl:Class;
 
 # properties
 	
-# use owl:equivalentProperty for compatibility with HY_Features?
-hy:drains-into rdf:type owl:ObjectProperty;
-	owl:inverseOf hy:drains.
-	
-hy:drains rdf:type owl:ObjectProperty.
-
-hy:inside rdf:type owl:ObjectProperty,owl:TransitiveProperty.
-	
 hy:lowerCatchment rdf:type owl:ObjectProperty;
   owl:inverseOf hy:upperCatchment.
 
-hy:upperCatchment rdf:type owl:ObjectProperty
+hy:upperCatchment rdf:type owl:ObjectProperty.
 
-hy:contains rdf:type owl:ObjectProperty,owl:TransitiveProperty;
-        owl:inverseOf hy:inside.
-		
-hy:inside rdf:type owl:ObjectProperty.
+hy:realizedNexus rdf:type owl:ObjectProperty;
+  owl:inverseOf hy:nexusRealization.
+
+hy:nexusRealization rdf:type owl:ObjectProperty.
+
+hy:realizedCatchment rdf:type owl:ObjectProperty;
+	owl:inverseOf hy:catchmentRealization.
+
+hy:catchmentRealization rdf:type owl:ObjectProperty.
+
+hy:hydrometricNetwork rdf:Type owl:ObjectProperty;
+	owl:inverseOf hy:networkStation.
+
+hy:networkStation rdf:type owl:ObjectProperty.
 
 hy:containingCatchment rdf:type owl:ObjectProperty,owl:TransitiveProperty.
 
 hy:containedcatchment rdf:type owl:ObjectProperty,owl:TransitiveProperty;
 	owl:inverseOf hy:containingCatchment.
-
-hy:located-on rdf:type owl:ObjectProperty.
-
-hy:location-for rdf:type owl:ObjectProperty;
-  owl:inverseOf hy:located-on.
-
-hy:near rdf:type owl:ObjectProperty ,
-	owl:SymmetricProperty.
 	
-hy:sameAs rdf:type owl:ObjectProperty ,
-	owl:SymmetricProperty.
+hy:encompassingCatchment rdf:type owl:ObjectProperty;
+	owl:inverseOf hy:exorheicDrainage.
 
-hy:close-to rdf:type owl:ObjectProperty ,
-	owl:SymmetricProperty.
-
-hy:measures rdf:type owl:ObjectProperty;
-	owl:inverseOf hy:measuredBy.
-hy:measuredBy rdf:type owl:ObjectProperty.
-
-hy:hydraulically-connected-to rdf:type owl:ObjectProperty ,
-	owl:SymmetricProperty.
-
-hy:overlaps rdf:type owl:ObjectProperty ,
-	owl:SymmetricProperty.
+hy:exorheicDrainage rdf:type owl:ObjectProperty.
 	
-hy:downstreamOf rdf:type owl:ObjectPropert,owl:TransitiveProperty;
-	owl:inverseOf hy:upstreamOf.
-hy:upstreamOf rdf:type owl:ObjectProperty,owl:TransitiveProperty.
+hy:inflow rdf:type owl:ObjectProperty; 
+	owl:inverseOf hy:receivingCatchment.
+
+hy:outflow rdf:type owl:ObjectProperty; 
+	owl:inverseOf hy:contributingCatchment.
+
+hy:contributingCatchment rdf:tye owl:ObjectProperty .
+hy:receivingCatchment rdf:type owl:ObjectProperty .
 
 hy:upstreamWaterbody rdf:type owl:ObjectProperty,owl:TransitiveProperty;
 	owl:inverseOf hy:downstreamWaterbody.
 hy:downstreamWaterbody rdf:type owl:ObjectProperty,owl:TransitiveProperty.
 
-gw:gwAquiferSystemPart rdf:type owl:ObjectPropert,owl:TransitiveProperty;
+gw:gwAquiferSystemPart rdf:type owl:ObjectProperty,owl:TransitiveProperty;
 	owl:inverseOf gw:gwAquiferSystem.
 gw:gwAquiferSystem rdf:type owl:ObjectProperty,owl:TransitiveProperty.
 
+gsp:sfWithin rdf:type owl:ObjectProperty;
+	owl:inverseOf gsp:sfContains.
 
+gsp:sfContains rdf:type owl:ObjectProperty.	
 
+gsp:sfIntersects rdf:type owl:ObjectProperty, owl:SymmetricProperty.
 
