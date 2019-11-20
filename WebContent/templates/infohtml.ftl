@@ -76,7 +76,7 @@ ${model.encode("JSON-LD")}
 								src="${host}/app/img/ttlicon.png"
 								style="max-width: 35px; padding: 10px 5px 0 5px" /></a>
 
-							<a href="${model.getNonInfoUri()}LOD_Node/CAN_Hydro_LOD_Node" 
+							<a href="${model.getNonInfoUri()}LOD_Node/US_Hydro_LOD_Node" 
 								target="_blank"> <img class="img_fluid"  
 								title="This node" alt="Access this node" src="${host}/app/img/node.png" 
 								style="max-width: 35px; padding: 10px 5px 0 5px" /></a>
