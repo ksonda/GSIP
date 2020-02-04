@@ -9,7 +9,7 @@
         <version.jersey>2.24</version.jersey>
     </properties>
   <build>
-  <finalName>gsip</finalName>
+  <finalName>chyld-pilot</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
     
@@ -258,7 +258,6 @@
     <artifactId>jaxb-api</artifactId>
     <version>2.3.1</version>
 </dependency>
-
     
   </dependencies>
 </project>
