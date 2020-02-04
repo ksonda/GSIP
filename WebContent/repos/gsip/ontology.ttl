@@ -56,6 +56,11 @@ hy:lowerCatchment rdf:type owl:ObjectProperty;
 
 hy:upperCatchment rdf:type owl:ObjectProperty.
 
+hy:contains rdf:type owl:ObjectProperty,owl:TransitiveProperty;
+        owl:inverseOf hy:inside.
+		
+hy:inside rdf:type owl:ObjectProperty.
+
 hy:realizedNexus rdf:type owl:ObjectProperty;
   owl:inverseOf hy:nexusRealization.
 

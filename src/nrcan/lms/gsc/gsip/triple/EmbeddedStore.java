@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
-import org.apache.jena.dboe.jenax.Txn;
+//import org.apache.jena.dboe.jenax.Txn;
 import org.apache.jena.ontology.OntModelSpec;
 import org.apache.jena.query.Dataset;
 import org.apache.jena.query.DatasetFactory;
@@ -49,7 +49,7 @@ public class EmbeddedStore extends TripleStoreImpl {
 			}
 			catch(Exception ex)
 			{
-				Logger.getAnonymousLogger().log(Level.SEVERE, "Failed to execute [" + sparql + "]");
+				Logger.getAnonymousLogger().log(Level.SEVERE, "Failed to execute [" + sparql + "]",ex);
 				return null;
 			}
 			
@@ -124,12 +124,13 @@ public class EmbeddedStore extends TripleStoreImpl {
 				Logger.getAnonymousLogger().log(Level.WARNING," !* Failed to load " + f.getAbsolutePath(), ex);
 			}
 		}
-		
+		long t = System.currentTimeMillis();
+		Logger.getAnonymousLogger().log(Level.INFO, m.size() + " statements loaded");
 		Logger.getAnonymousLogger().log(Level.INFO, "Repo loaded - creating reasoner");
 		Reasoner owl = ReasonerRegistry.getOWLReasoner();
-	
-		ds.setDefaultModel(ModelFactory.createInfModel(owl, m));
 		
+		ds.setDefaultModel(ModelFactory.createInfModel(owl, m));
+		Logger.getAnonymousLogger().log(Level.INFO, m.size() + " statements :" + (System.currentTimeMillis() - t) / 1000 + " s");
 
 		
 	}
